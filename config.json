@@ -1,0 +1,3 @@
+{
+    "connString": "root:@tcp(localhost:3306)/test"
+}
